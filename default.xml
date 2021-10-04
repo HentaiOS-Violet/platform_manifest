@@ -834,4 +834,8 @@
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
   <include name="snippets/hentai.xml" />
+
+ <!-- HentaiOS-Violet snippet -->
+  <include name="snippets/caf.xml"/>
+
 </manifest>
